@@ -1,4 +1,4 @@
-<?php # Script 9.5 - register.php #2
+9<?php # Script 9.5 - register.php #2
 // This script performs an INSERT query to add a record to the users table.
 
 $page_title = 'Register';

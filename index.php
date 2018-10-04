@@ -11,5 +11,5 @@ include('includes/header.html');
 <?php
 
 
-include('../includes/footer.html');
+include('/home/ubuntu/workspace/practice/includes/footer.html');
 ?>
